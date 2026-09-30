@@ -1,0 +1,22 @@
+# Maven build output
+target/
+*.class
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs and local environment files
+*.log
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
